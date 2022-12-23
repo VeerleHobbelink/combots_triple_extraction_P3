@@ -1,0 +1,171 @@
+personachat-train-013180
+i am great thank you i am french<eos>what do you do in france ?<eos>i am in third grade you
+["singular_personal_prons", "wh_question", "length_6"]
+
+personachat-train-003624
+i'm great . how are you this evening ?<eos>have you ever been to mars ?<eos>nope i preferably choose earth lol
+["singular_personal_prons", "act_deny_elaborate", "yes_no_question", "length_6"]
+
+personachat-train-004558
+no longer i m a teacher for six grade<eos>i like that you are a teacher . what subjects do you teach ?<eos>i teach math and i m into volleyball team coaching
+["singular_personal_prons", "length_10"]
+
+personachat-train-009909
+me is drawing people and mountain biking<eos>tea keeps you awake , do you shop online ?<eos>not too much , hard boiled eggs are delicious
+["yes_no_question", "length_9"]
+
+personachat-train-013540
+no , i'm a legal assistant with a law firm<eos>that is a great career what got you interested in that ?<eos>well , my dad i guess
+["possessive_prons", "singular_personal_prons", "wh_question", "length_6"]
+
+personachat-train-000683
+great ! so we both have what we like .<eos>i guess so , lol , what do you do for a living ?<eos>i work at a non profit organization that helps children .
+["demonstrative_dets", "singular_personal_prons", "wh_question", "length_11"]
+
+personachat-train-010841
+nice do you like music<eos>i like the power of crystals . what are your hobbies ?<eos>i love to dye my hair
+["possessive_prons", "singular_personal_prons", "length_6"]
+
+personachat-train-017782
+i sometimes am single but wonder why i am married<eos>i like to sleep past 9am but work for myself so no major issue right ? ?<eos>well , you only live once
+["singular_personal_prons", "yes_no_question", "length_6"]
+
+personachat-train-010501
+i'm also boy scout troop fun fact . lol<eos>do they teach healthy eating in boy scouts these days ?<eos>yes we teach to eat gluten free
+["plural_personal_prons", "act_confirm_elaborate", "yes_no_question", "length_7"]
+
+personachat-train-012739
+i prefer purple but am flexible depending on my moods . do you swim ?<eos>i do . i also love magic . do you ?<eos>i do ! i ve been learning magic since a a kid , the same time i began swimming .
+["singular_personal_prons", "yes_no_question", "length_20"]
+
+personachat-train-006115
+i drive a blue van<eos>lol . what do you do in your blue van ? been to any wine tours recently ?<eos>i can not really say
+["singular_personal_prons", "wh_question", "length_5"]
+
+personachat-train-004043
+pretty good , i need that to keep my mind off the break up of my girlfriend<eos>oh wow i am sorry what happen ?<eos>it just did not work out . oh well .
+["singular_personal_prons", "wh_question", "length_10"]
+
+personachat-train-004558
+same crossword can i do some sports too<eos>i still live with my parents . how about you ?<eos>no longer i m a teacher for six grade
+["singular_personal_prons", "act_deny_elaborate", "length_9"]
+
+personachat-train-004745
+the farm is my job . i've here since my family moved when i was 18<eos>do you think you will be a farmer for life ?<eos>its all i know so yeah .
+["ellipsis_pred", "possessive_prons", "singular_personal_prons", "yes_no_question", "length_7"]
+
+personachat-train-013424
+hello how is it going today<eos>doing well what are your plans for the weekend ?<eos>my daily six miles a day
+["ellipsis_pred", "possessive_prons", "wh_question", "length_6"]
+
+personachat-train-000841
+i live on ranch so we have a ton of pumpkins around this time .<eos>oh neat ! do you sell them ?<eos>on weekends mainly . we have a pretty good selection .
+["plural_personal_prons", "yes_no_question", "length_11"]
+
+personachat-train-007537
+i find it easier to run when listening to my favorite group rush<eos>what kind of work are you looking for ?<eos>well , i speak three languages french english and spanish , so anything really
+["singular_personal_prons", "wh_question", "length_14"]
+
+personachat-train-005779
+hey my man , how is it shaking ?<eos>hello , i'm mia . how are you doing ?<eos>i am doing good , like everyday
+["singular_personal_prons", "length_7"]
+
+personachat-train-006401
+hi , how is it going ?<eos>hi ! pretty good how are you today ?<eos>i'm fine , on my lunch break
+["possessive_prons", "singular_personal_prons", "length_8"]
+
+personachat-train-002976
+oh i see . hate visiting the hospital just like i dislike cooking<eos>what do you do for a living ?<eos>i am a student . at georgia states
+["singular_personal_prons", "wh_question", "length_8"]
+
+personachat-train-006840 
+hello how are you doing ?<eos>i am good . getting ready to use my new paddle board . you ?<eos>i'm great , i'm a developer and very wealthy 
+["singular_personal_prons", "yes_no_question", "length_11"]
+
+personachat-train-008068
+barely it went into over time i didn't do the after party<eos>i don't blame you do you have any pets ?<eos>yes i am not big on sweets but i have 3 dogs
+["singular_personal_prons", "act_confirm_elaborate", "yes_no_question", "length_12"]
+
+personachat-train-016731
+nice job . i'm looking in to publishing gigs<eos>cool . that sounds awesome . whats your favorite food ?<eos>i like anything green . green apples , bell peppers , kiwis , u name it lol
+["singular_personal_prons", "length_17"]
+
+personachat-train-002097
+do you like to sing ? i do<eos>i do but am not very good at it . do you like to run ?<eos>i'm trying to get better at running
+["singular_personal_prons", "yes_no_question", "length_8"]
+
+daily_dialogs-train-003194
+It is beautiful .<eos>You don ' t have any problems with how it looks ?<eos>Actually , there is a problem .
+["ellipsis_subj", "yes_no_question", "length_7"]
+
+daily_dialogs-train-009712
+That is DAVID, WHITE.<eos>Thank you , I got it . And how long do you expect to stay ?<eos>About three days .
+["ellipsis_pred", "wh_question", "length_4"]
+
+daily_dialogs-train-002491
+That is a wonderful choice .<eos>What makes is so great ?<eos>It's very inexpensive , and it has all the appliances .
+["singular_personal_prons", "length_12"]
+
+daily_dialogs-train-012849
+Thank you . I don't think there should be any problems , but just to be sure ...<eos>Don't worry ; I'm sure it will be fine . If I do have any queries I'll call you , OK ?<eos>That's fine . Thank you again .
+["demonstrative_dets", "singular_personal_prons", "yes_no_question", "length_8"]
+
+daily_dialogs-train-010445
+There are various choices of blood pressure medication that we can try .<eos>What is available ?<eos>We could start with Hydrochlorothiazide , which is a diuretic .
+["plural_personal_prons", "wh_question", "length_11"]
+
+daily_dialogs-train-004043
+It's on the west side of the campus .<eos>Do you know if the parking structure is full or not ?<eos>It was empty last time I went up there .
+["singular_personal_prons", "yes_no_question", "length_10"]
+
+daily_dialogs-train-004243
+I ' m itching for moving !<eos>What ' s the matter ? What annoy you ?<eos>It ' s so wet and dark , I ' m just fed up .
+["singular_personal_prons", "wh_question", "length_15"]
+
+daily_dialogs-train-010211
+Less than one hour .<eos>And how long do I have to stay in Berlin for the connecting flight ?<eos>Not so long , just one hour .
+["ellipsis_pred", "wh_question", "length_8"]
+
+daily_dialogs-train-003954
+Yes , I am studying in Eastern Asian language department .<eos>What are you majoring in ?<eos>I major in Japanese .
+["singular_personal_prons", "wh_question", "length_5"]
+
+daily_dialogs-train-006694
+Oh , that sounds great !<eos>I ' ll pick you up at ... say , 7 , 30 ?<eos>Yes , that would be perfect .
+["demonstrative_dets", "act_confirm_elaborate", "yes_no_question", "length_7"]
+
+daily_dialogs-train-006493
+Well it can be but Shanghai is much warmer than London .<eos>I see . What about transport ? How does Shanghai compare to London ?<eos>Actually I think the buses and trains here are more modern .
+["singular_personal_prons", "open_question", "length_12"]
+
+circa-train-024437
+burgers , milk shakes , fries , chicken sandwiches , fish sandwiches<eos>would you be into eating at a diner with burgers ?<eos>yes
+["ellipsis_pred", "act_confirm", "yes_no_question", "length_1"]
+
+circa-train-021596
+i do most things alone . just me , some dream theater on my playlist , and the game .<eos>have you made a list of things you'd like to do ?<eos>i did way too much research .
+["act_impl_confirm", "singular_personal_prons", "yes_no_question", "length_7"]
+
+circa-train-010479
+good , just tired from work<eos>do you stand up at work ?<eos>yes
+["ellipsis_pred", "act_confirm", "yes_no_question", "length_1"]
+
+circa-train-025345
+i'm from mississippi . just moved back here from austin texas<eos>are you new to austin ?<eos>no
+["ellipsis_pred", "act_deny", "act_deny_elaborate", "yes_no_question", "length_1"]
+
+circa-train-022959
+it is a beautiful instrument , i would love to retire and become a music teacher .<eos>did you play a music instrument growing up ?<eos>i was the first chair trumpet .
+["act_impl_confirm", "singular_personal_prons", "yes_no_question", "length_7"]
+
+circa-train-034153
+i am broke . i live in my parents basement , so no extra money .<eos>is a basement flat okay ?<eos>i'd prefer something on the top floor .
+["act_impl_deny", "singular_personal_prons", "yes_no_question", "length_9"]
+
+circa-train-003843
+nah don't have time for much , my job wife and kids keep me busy ! that's cool though<eos>did you enjoy your time as a bus driver before your current job ?<eos>that job was awful .
+["act_impl_deny", "yes_no_question", "length_5"]
+
+circa-train-006429
+you have got me there . i wouldn't mind seeing my grandson play sports sometime .<eos>have you continued doing sports ?<eos>yes , i like running these days .
+["singular_personal_prons", "act_confirm_elaborate", "yes_no_question", "length_8"]

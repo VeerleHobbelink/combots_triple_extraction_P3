@@ -1,0 +1,1656 @@
+personachat-valid-000544
+for sure . what else do you like ?<eos>school keeps me pretty busy , what about you ?<eos>spending a lot of time running and getting resources for my new job
+speaker1,spending,a lot of time,positive
+
+personachat-valid-000556
+i donate to locks of love if that counts<eos>that is great ! ok , now another random question what is your biggest fear ?<eos>spiders . . . i absolutely hate and fear them
+speaker1 's biggest fear,is,spiders,positive
+
+personachat-valid-000844
+i am and how are you ?<eos>kinda hurting a little bit to be honest but where are you from ?<eos>little bit of everywhere being a army brat
+speaker2,are,kinda hurting,positive
+speaker1,are from,little bit of everywhere,positive
+
+personachat-valid-000929
+care to chat with a hs teacher , who goes to church every week ?<eos>sure , what is your favorite color ?<eos>pink, but that may be because i'm a female .
+speaker1 's favorite color,is,pink,positive
+
+personachat-train-014830
+i moved there when i was 14<eos>where did you move to america from ?<eos>from europe , far away i was
+speaker1,move to america from,europe,positive
+
+personachat-valid-000551
+that is neat , mine is brown<eos>cool , what is your favorite disney character ?<eos>mickey mouse for sure , he's so boss
+speaker1 's favorite disney character,is,mickey mouse,positive
+
+personachat-train-008055
+that is great i'm writing about that<eos>what are you writing about exactly ?<eos>carnivores and my favorite color
+speaker1,writing about,carnivores,positive
+speaker1,writing about,speaker1 's favorite color,positive
+
+personachat-train-011264
+just my pug , he is the most loyal thing you will ever find !<eos>awesome ! what do you like to do for fun ?<eos>playing ultimate frisbee with my dude .
+speaker1,like to do for,ultimate frisbee with speaker1 's dude,positive
+
+personachat-train-012843
+fine i am wearing my favorite red dress to the bacon ball<eos>bacon ball ? that sounds strange . what is it ?<eos>a bacon enthusiast and appreciation event my car is candy apple red
+it,is,a bacon enthusiast and appreciation event,positive
+
+personachat-valid-000056
+i need a job and will put my yacht up for rent . i could teach .<eos>sounds like a good plan , what would you like to teach ?<eos>economics . that would be my first choice .
+speaker1,like to,teach economics,positive
+
+personachat-train-003788
+thank you . that's what i try to instill in my kids .<eos>how many kids do you have ?<eos>i have 2 of my own , as well as 30 in my class lol
+speaker1,have,2 of speaker1 's own,positive
+speaker1,have,30 in speaker1 's class,positive
+
+personachat-train-002458
+what kind of hobbies do you like ?<eos>i'm taking swimming lessons . . . didn't learn as a kid . how about you ?<eos>i love music . especially prince , i am also bi lingual i speak english and spanish
+speaker1,love,music,positive
+speaker1,love,prince,positive
+
+personachat-valid-000033
+i can tell you what i don't like<eos>what do you not like ?<eos>school . i really really do not like it,
+speaker1, like,school,negative
+
+personachat-valid-000310
+do you like the outdoors ?<eos>i like taking my dogs hiking . what do you like to do for fun ?<eos>most any type of outdoor activity , attending sporting events , reading, and cooking .
+speaker1,like,outdoor activity,positive
+speaker1,attending, sporting events,positive
+speaker1,like,reading,positive
+speaker1,like,cooking,positive
+
+personachat-valid-000322
+what type of book are you reading ?<eos>this week a parenting book . what are you up to ?<eos>trying to turn my life around . i am serving time for shoplifting .
+speaker1,trying to,turn speaker1 's life around,positive
+speaker1,trying to,turn speaker1 's life around,positive
+
+personachat-train-010263
+good , getting ready for my gig tonight i am a singer and i love it !<eos>what kind of music do you do ?<eos>rock . i usually do gigs on saturdays but a job is a job .
+speaker1,do,rock,positive
+
+personachat-train-013424
+hello how is it going today<eos>doing well what are your plans for the weekend ?<eos>my daily six miles a day
+speaker1 's plans,are,speaker1 's daily six miles,positive
+
+personachat-valid-000313
+probably going to thrift stores .<eos>shopping is okay . what is your favorite thing to shop for ?<eos>fun toys for my nieces .
+speaker1 's favorite thing,is,fun toys for speaker1 's nieces,positive
+
+personachat-train-011202
+i go to the college of alabama<eos>oh . what is your major ?<eos>geology but i hate it
+speaker1 's major,is,geology,positive
+
+personachat-valid-000886
+i bet that does work .<eos>what do you do for fun ?<eos>ride horses and be on a farm .
+speaker1,ride,horses,positive
+speaker1,be on,a farm,positive
+
+personachat-train-001591
+good , watching the latest episode of face off . seen it ?<eos>no , what is that show about ?<eos>special effects competition . i've to make cookies for the bake sale after .
+that show,is about,special effects competition,positive
+
+personachat-valid-000940
+that's nice what kind of music do you like<eos>i do not have much time as i play soccer . you ?<eos>i am a music producer for rap artists
+speaker1,am,a music producer for rap artists,positive
+
+personachat-valid-000900
+yes all grown so i'll have help once i get my farm<eos>perfect . what kind of music do you like ?<eos>i like country and pop how about you
+speaker1,like,country,positive
+speaker1,like,pop,positive
+
+personachat-valid-000498
+hello there , how is your day going ?<eos>how are you . where are you from ?<eos>well , chicago but i'm in high school near the ghetto at the moment
+speaker1,are from,chicago,positive
+
+personachat-valid-000451
+i have to in order to do what i want<eos>what do you want to do ?<eos>work in the health field
+speaker1,want to,do the health field,positive
+
+personachat-train-011950
+i see , what color is your hair ? mine's dyed blonde<eos>i've brown hair . i want to be a doctor . what do you do ?<eos>i travel . to foreign countries mostly .
+speaker1,do,travel,positive
+
+personachat-valid-000575
+yummy . i'd love one . apple for me<eos>ok . since you are four you do not play call of duty do you ?<eos>just dolls . i do not know what a call of duty is .
+speaker1,play,dolls,positive
+
+personachat-train-017343
+oh snap i bet you couldn't beat me at video gave even with 3 thumbs<eos>ahahah what do you play ?<eos>lots of stuff i like to swim so i also like to play swimming games .
+speaker1,play,lots of stuff,positive
+
+personachat-valid-000651
+just go out once in a while , who will love it<eos>what do you do for a living ?<eos>work with a bitcoin company
+speaker1,work with,a bitcoin company,positive
+
+personachat-train-008883
+hi my name is alex . . tell me about yourself what kind of music do you like ?<eos>jazz , what about you ?<eos>jazz is awesome , i am into rock . nickelback is my jam .
+speaker2,like,jazz,positive
+
+personachat-train-015857
+i am sick , weather changing yuck<eos>i'm doing great , and you ? what do you do for fun ?<eos>hunt , i just really love it .
+speaker1,do for fun,hunt,positive
+
+personachat-train-016839
+haha yeah , i like football and country music<eos>sounds like you are from the south , what is your favorite team ?<eos>the colts , from my home state
+speaker1 's favorite team,is,the colts,positive
+
+personachat-train-015275
+what is your favorite pizza toppings ?<eos>mushroom and spinach what about you ?<eos>same , with feta cheese and onions
+speaker2 's favorite pizza toppings,is,mushroom,positive
+speaker2 's favorite pizza toppings,is,spinach,positive
+
+personachat-train-014679
+grandma babysits she's a lawyer<eos>she must be really progressive if she's a laywer , what do you do ?<eos>i like to dance on the weekends
+speaker1,do,dance,positive
+
+personachat-valid-000937
+my sister pole dances to rock music , but not me !<eos>what do you like to do ?<eos>i liked going to church and riding my tractor , the simple life !
+speaker1,like to do,the simple life,positive
+speaker1,like to do,going to church,positive
+speaker1,like to do,riding speaker1 's tractor,positive
+
+personachat-train-010737
+that's cool . what state do you live in ?<eos>i live on the west coast . what about you ?<eos>north carolina . i never been to the west coast .
+speaker1,live on,north carolina,positive
+
+personachat-train-008842
+that's cool i'm just watching a movie<eos>what movie are you watching ?<eos>fifty shades darker . very good movie
+speaker1,watching,fifty shades darker,positive
+
+personachat-train-011527
+you should cook for me on my boat<eos>what do you like to eat ?<eos>the fish i catch obviously
+speaker1,like to,eat the fish speaker1 catch,positive
+
+personachat-train-000050
+nice to meet ya sally ! i am sean and i am a student<eos>hey sean , what are you studying ?<eos>computer engineering and math. have an internship starting later this year i'm very excited for .
+speaker1,studying,computer engineering,positive
+speaker1,studying,math,positive
+
+personachat-valid-000774
+o really how many different birds have you seen or n estimate<eos>maybe 1500 ? especially around the holiday season . what is your favorite holiday ?<eos>thanksgiving i get to see family from far away
+speaker1 's favorite holiday,is,thanksgiving,positive
+
+personachat-valid-000030
+no i think they're for whinny illiterate millennials<eos>well how rude of you . where do you live ?<eos>in nyc i work from my condo
+speaker1,live,in nyc,positive
+
+personachat-train-017324
+pretty good . just finished cooking<eos>what were you making ?<eos>pastas . do you like to cook
+speaker1,making,pastas,positive
+
+personachat-valid-000201
+does he like tacos ? i really like tacos<eos>he likes everything . lol what do you do during the week ?<eos>i need to catch up on sleep
+speaker1,do,catch up on sleep,positive
+
+personachat-valid-000214
+i just got finished feeding my fish .<eos>ooooh , what kind of fish do you have ?<eos>a piranha . i was just feeding him pieces of my ex boyfriend .
+speaker1,have,a piranha,positive
+
+personachat-train-005031
+that's great . i love nature but one time i started a fire in a forest<eos>oh , that stinks . what is your favorite food ?<eos>anything at all . i am not picky
+speaker1 's favorite food,is,anything,positive
+
+circa-valid-011157
+i grew up in a small town and want to live in the city .<eos>did you move from somewhere else in town<eos>hokkaido .
+speaker1,move from,hokkaido,positive
+
+circa-valid-005284
+what happened in your childhood<eos>are you in contact with anyone else we need from our childhood ?<eos>frankie , joanie , and mike .
+speaker1,are in contact with,frankie,positive
+speaker1,are in contact with,joanie,positive
+speaker1,are in contact with,mike,positive
+
+personachat-valid-000360
+dogs ! i love dogs so much ! what is your dogs name ?<eos>i named my dog ralph . do you have any pets ?<eos>definitely , a cat named mittens !
+speaker1,have,a cat named mittens,positive
+
+personachat-train-015236
+i actually do not . i only leave my house to go to the movies .<eos>what's your favorite movie ? slackers ?<eos>horror movies !
+speaker1 's favorite movie,is,horror movies,positive
+
+daily_dialogs-train-002539
+Can we go somewhere nearby ? I don't feel like walking too far .<eos>Sure . What kind of food do you like ?<eos>I mean the food for something spicy .
+speaker1,like,something spicy,positive
+
+personachat-valid-000622
+i do not ride a bike because when i talk people do not understand<eos>someday they will . do you like to look at books ?<eos>yes , the alphabet . that is really sweet
+speaker1,like to, look at the alphabet,positive
+
+personachat-train-016038
+that is a great thing to aspire to be like .<eos>what else do you like to do ?<eos>i like to listen to rap while cooking dinner .
+speaker1,like to,listen to rap,positive
+
+personachat-train-005731
+yes , i use a cane when i walk but i mostly sit there .<eos>what kind of radio station do you work at ?<eos>country music , its mostly using the computer
+speaker1,work at,country music,positive
+
+personachat-valid-000326
+yea its fairly big . what color is your hair . mine is blonde<eos>my hair is a rainbow of colors . whats your favorite color ?<eos>i like pink an awful lot
+speaker1 's favorite color,is,pink,positive
+
+personachat-valid-000916
+i'm on the other side of lake erie .<eos>i work at the supermarket here in town . . what do you do ?<eos>currently enlisted in the canadian army .
+speaker1,enlisted in, the canadian army,positive
+
+personachat-valid-000099
+i like to read and play video games . i mostly just spend time with my family .<eos>that's cool . what do you read ?<eos>mostly fiction and biographies . i like those two genres the best .
+speaker1,read,fiction,positive
+speaker1,read,biographies,positive
+
+personachat-train-010596
+great ! my name is bob , and i'm 35 and unmarried . i teach .<eos>where do you teach and what subject ?<eos>high school japanese and classes for drawing . been doing it 10 years .
+speaker1,teach,high school japanese,positive
+speaker1,teach,classes for drawing,positive
+
+personachat-train-014966
+that is great ! i just switched from being vegetarian to going vegan<eos>what city are you from ?<eos>i'm from daly city , california
+speaker1,are from,daly city california,positive
+
+daily_dialogs-train-001621
+Here you are<eos>Where is the fitting room ?<eos>It's just around the corner .
+the fitting room,is around,the corner,positive
+
+personachat-valid-000885
+o ok i work out with my lab named trooper as well<eos>what do you do for a living ?<eos>mechanical engineer for chevy and nissan
+speaker1,do,mechanical engineer,positive
+speaker1,engineer for,chevy,positive
+speaker1,engineer for,nissan,positive
+
+daily_dialogs-valid-003280
+Is that a lot ? Sixty four ?<eos>Yes , it is . It should be enough for any student needs you might have . What department are you in ?<eos>History .
+speaker1,are in,history,positive
+
+personachat-train-003115
+that's ok . what do you enjoy doing ?<eos>i really enjoy going out fishing . yourself ?<eos>when i'm not reading , i love going to the river
+speaker2,enjoy,going out fishing,positive
+
+personachat-train-007062
+that's so cool . i have never been there myself .<eos>i definitely recommend it . what do you like to do for fun ?<eos>i like to play music . it is a passion of mine .
+speaker1,like to,play music,positive
+
+daily_dialogs-valid-009468
+Not a bad idea !<eos>What would you like to see in Beijing ?<eos>Well , let's see . I'd like to go to the Summer Palace .
+speaker1,like to, see in the summer palace,positive
+
+daily_dialogs-train-000017
+Dahua's Market . How can I help you ?<eos>Where is your store located ?<eos>We are on Nanjing Road , next to the theatre .
+speaker1 's store,is located,Nanjing road,positive
+speaker1 's store,is located,next to the theatre,positive
+
+personachat-train-009911
+i do not mind it what are your hobbies<eos>playing d&d . dragons are real , you know . what do you like ?<eos>that is cool i've never played that
+playing d&d,are,speaker2 's hobbies,positive
+
+personachat-train-004905
+hello . how are you today ?<eos>in the city of n y is where i live and you ?<eos>i am in school in florida getting my degree .
+speaker1,are in,school in florida,positive
+speaker1,getting,speaker1 's degree,positive
+
+daily_dialogs-train-008785
+Hello , Jim . Where are you going ?<eos>To the cinema . What about coming with me ?<eos>No , thanks . I'm going home . My wife's expecting me .
+speaker2,going to,the cinema,positive
+
+personachat-valid-000162
+i've a weakness for cats and vanilla ice cream .<eos>pretty cool , i love mexican food , can not get enough ! what do you do for fun ?<eos>i collect hats ! i have a collection of 1000 hats !
+speaker1,do for fun,collect hats,positive
+
+personachat-valid-000579
+they do . we learn a lot too .<eos>what did you last learn about ?<eos>the alphabet . there is a song they taught me .
+speaker1,learn about,the alphabet,positive
+
+daily_dialogs-valid-011396
+Next Monday morning .<eos>What is the starting salary for me ?<eos>Your starting salary is 2500 yuan a month , and after you become a permanent employee , it will be higher .
+the starting salary,is,2500 yuan a month,positive
+
+personachat-train-007954
+i've 2 dogs as well<eos>nice ! what do you do on your spare time ?<eos>going outdoors and hiking
+speaker1,going,outdoors,positive
+speaker1,do,hiking,positive
+
+personachat-valid-000523
+about five years now what do you do<eos>besides , playing video game , what is your favorite food ?<eos>pizza really any normal food
+speaker1 's favorite food,is,pizza,positive
+speaker1 's favorite food,is,any normal food,positive
+
+personachat-train-011269
+no got hurt before i could make the olympics team<eos>how sad . what else do you like to do ?<eos>paint and take pictures
+speaker1,like to do,paint,positive
+speaker1,like to do,take pictures,positive
+
+daily_dialogs-train-003944
+She's very nice .<eos>What does she teach ?<eos>English , of course .
+she,teach,english,positive
+
+daily_dialogs-train-002103
+OK !<eos>What is the fare ?<eos>14 Yuan .
+the fare,is,14 yuan,positive
+
+personachat-train-008386
+wouldn't know anything about that<eos>what do you do for work ?<eos>just started working from home , the internet is a heck of a thing
+speaker1,do,working from home,positive
+
+daily_dialogs-train-005356
+I'm from Guangzhou .<eos>Where in China is Guangzhou ?<eos>The South of China .
+guangzhou,is,the south of china,positive
+
+daily_dialogs-valid-010142
+Yes , I want to spend a couple days in New York . I have friends there I will visit .<eos>What do you have in the bag , Mr . Lee ?<eos>Just my cameras , my clothes , and some books .
+speaker1,have,speaker1 's cameras,positive
+speaker1,have,speaker1 's clothes,positive
+speaker1,have,some books,positive
+
+daily_dialogs-valid-005953
+Yes , I've just come back from Scotland .<eos>Where did you visit ?<eos>I only had time for Edinburgh .
+speaker1,visit,edinburgh,positive
+
+personachat-valid-000083
+ugh . i do not think i could live with them .<eos>only when we visit dad they come out . what do you do ?<eos>law school , but i also train horses
+speaker1,do,law school,positive
+
+personachat-valid-000972
+wow cool ! i got a new job just yesterday .<eos>where are you from friend ?<eos>miami ! i also like to eat clean
+speaker1,are from,miami,positive
+
+personachat-train-000716
+no , but i love music . i play in a band .<eos>what do you play ?<eos>mainly just heavy metal and old school rock .
+speaker1,play,heavy metal,positive
+speaker1,play,old school rock,positive
+
+daily_dialogs-valid-002224
+I had one or two glasses of eggnog , but nothing else .<eos>Step out of the vehicle , please . Sir , what do you have in the back ?<eos>Just a few Christmas gifts , to this season , after all !
+speaker1,have in the back,a few christmas gifts,positive
+
+personachat-train-012335
+hi sara my name is deon<eos>what do you do for a living deon ?<eos>it field for 5 years now
+speaker1,do for,it field,positive
+
+personachat-valid-000499
+wow that's pretty cool what else you do for fun<eos>i've a comic book collection too . how about you ?<eos>just collecting baking stuffs
+speaker1,collecting,baking stuffs,positive
+
+personachat-train-011687
+hello , how are you this fine rainy thursday ?<eos>i'm good , only it is not raining here . what are you up to ?<eos>binge watching supernatural , hard to do anything with a broken leg .
+speaker1,are up to,binge watching supernatural,positive
+
+daily_dialogs-valid-012202
+I'm going to the fair now . if any one looks for me . ask them to call the fair .<eos>What is the telephone number there ?<eos>88267894 extension to 208
+the telephone number,is,88267894 extension to 208,positive
+
+daily_dialogs-train-003665
+Sure , what do you want to know ?<eos>I have my book from class here . How do you say this word ?<eos>Laptop .
+speaker1,say,laptop,positive
+
+personachat-valid-000077
+are you in school too ?<eos>no . i finished in 1995 . what year are in ?<eos>the first year , i just moved here with my best friend for school too .
+speaker1,are in,the first year,positive
+
+daily_dialogs-valid-001691
+I'd love to try some snacks .<eos>Later Everything looks tempting . What do you want to have ?<eos>Kebabs and roast squid .
+speaker1,want to,have kebabs,positive
+speaker1,want to,have roast squid,positive
+
+circa-train-012211
+alot really , i enjoy going out to eat with family , going to the movies<eos>have you been to the movies lately ?<eos>yes , i go a couple of times a month .
+speaker1,enjoy,eat with family,positive
+speaker1,going to,the movies,positive
+
+personachat-train-015275
+what is your favorite pizza toppings ?<eos>i like mushroom and spinach what about you ?<eos>same , with feta cheese and onions
+speaker2,like,mushroom,positive
+speaker2,like,spinach,positive
+
+personachat-train-014794
+they're doing good . i'm the one who feels lost in who i'm .<eos>why is that ? why do you feel lost ?<eos>i have a good relationship with my husband but feel alone sometimes .
+speaker1,have,a good relationship with speaker1 's husband,positive
+speaker1,feel,alone,positive
+
+personachat-train-005245
+like the lil b cooking dance ? all the time . swag<eos>oh okay . your friends do this too ?<eos>yeah . we all cook together at starbucks and the antique store
+speaker1 's friends,cook together at,starbucks,positive
+speaker1 's friends,cook together at,the antique store,positive
+
+personachat-valid-000397
+i'll probably end up going to the gym . have any animals ?<eos>no , i'm only in college . what do you do ?<eos>in between jobs right now so you can find me on the treadmill or rowing machine .
+speaker2,can find,speaker1 on the treadmill,positive
+speaker2,can find,speaker1 on rowing machine,positive
+
+daily_dialogs-valid-000327
+So that we can sit down together and listen to some music .<eos>Listen to the music ? And who will cook dinner , will you ?<eos>I will , but let's go to the disco after dinner .
+speaker1,can sit down,together,positive
+speaker1,listen to,some music,positive
+
+personachat-valid-000485
+i love the birds and my cats .<eos>how many do you have ?<eos>i've two cats . i watch the birds outside . it is getting close to holidays .
+speaker1,love,the birds,positive
+speaker1,love,speaker1 's cats,positive
+
+daily_dialogs-valid-011276
+I am calling to apply to work in your agency of entry .<eos>OK . Do you have any advantages to work in our entry agency ?<eos>Yes . I know many ambassadors in Chinese Embassy and British Embassy in China .
+speaker1,know,many ambassadors in chinese embassy,positive
+speaker1,know,british embassy in china,positive
+
+personachat-train-007124
+i am going to a concert and maybe try the new italian place after .<eos>oh , great ! what kind of concert ? what kind of music ?<eos>5 star symphony , its orchestra .
+speaker1,going to,a concert,positive
+speaker1,try,the new italian place,positive
+
+circa-valid-026241
+hi there , i decided to pack up my belongings and move here from germany .<eos>has your move been easy ?<eos>it's been problem free .
+speaker1,decided to,pack up speaker1 's belongings,positive
+speaker1,move here from,germany,positive
+
+daily_dialogs-train-000994
+If you don't mind , I'd rather you didn't . I have a cold and feel chilly .<eos>Oh , that's too bad . Should I call a doctor ?<eos>I'd appreciate it if you would .
+speaker1,have,a cold,positive
+speaker1,feel,chilly,positive
+
+daily_dialogs-valid-010338
+I think you've got the flu . There's a lot of it about .<eos>What should I do ?<eos>Take some medicine and stay in bed for a day or two .
+speaker2,take,some medicine,positive
+speaker2,stay in,bed,positive
+
+daily_dialogs-train-000673
+It's fish steamed and served with our special sauce .<eos>Is it good ?<eos>Sure . It's a most popular dish .
+it,is,fish steamed,positive
+it,served with,our special sauce,positive
+
+circa-train-012527
+we should hit up a bar and have a few drinks .<eos>shall we go for a drink at a bar ?<eos>no , i have to get home .
+speaker1,should hit up,a bar,positive
+speaker1,have,a few drinks,positive
+
+daily_dialogs-train-008322
+It seems that you will have a nice day tomorrow .<eos>How about you ? What are you going to do tomorrow ?<eos>I have a lot of work in the office and a lot of chores in the house . How I envy you , Robin !
+speaker1,have,a lot of work in the office,positive
+speaker1,have,a lot of chores in the house,positive
+
+circa-train-023090
+i try to avoid sugar and eat a somewhat balanced diet . that sounds good !<eos>do you have any special diet ?<eos>i can eat anything .
+speaker1,try to,avoid sugar,positive
+speaker1,eat,a somewhat balanced diet,positive
+
+daily_dialogs-train-008671
+I think it's either one or two gigs . I can't remember .<eos>how much do they cost ?<eos>not much at all . I think it's about 100 dollars .
+it,is,one,positive
+it,is,two gigs,positive
+
+personachat-train-005143
+karma is real , do you agree ?<eos>i do agree . ever notice in scary movies how the bad guy always gets killed ?<eos>i don't believe in dating and have never been
+speaker1,believe in,dating,negative
+speaker1,been,dating,negative
+
+personachat-train-002143
+i mostly eat out and do not cook so that is also an issue haha<eos>oh i love to cook ! do you not like it or are you just too busy ?<eos>i'm just too busy but around the weekend i tend to make some stuff
+speaker1,eat,out,positive
+speaker1,do,cook,positive
+
+daily_dialogs-train-006540
+Well , she's tall and pretty .<eos>Is she like you ?<eos>I suppose so . We're both friendly and easy going .
+speaker1,are,friendly,positive
+speaker1,are,easy going,positive
+she,is,pretty,positive
+
+personachat-valid-000833
+hi i am very high class and conceited<eos>hello , just came back from my trip to europe . i go there twice a year ! you ?<eos>i travel everywhere and spend lots to go on luxurious trips
+speaker1,am,very high class,positive
+speaker1,am,conceited,positive
+speaker1,travel,everywhere,positive
+speaker1,spend,lots,positive
+
+personachat-train-006840
+hello how are you doing ?<eos>i am good . getting ready to use my new paddle board . you ?<eos>i'm great , i'm a developer and very wealthy
+speaker1,am,a developer,positive
+speaker1,am,very wealthy,positive
+
+daily_dialogs-valid-006900
+Terrible .<eos>Oh , what's the matter ?<eos>I've got a fever and really a bad headache .
+speaker1,got,a fever,positive
+speaker1,got,a bad headache,positive
+
+daily_dialogs-valid-003730
+Congratulations !<eos>How about you ? Have you got any news from university ?<eos>No . But I am going to apply for some vocational schools . I like fashion design and want to study it .
+speaker1,like,fashion design,positive
+speaker1,want to,study it,positive
+
+circa-valid-031730
+yeah i actually play the violin , guitar , drums and piano .<eos>have you played guitar ?<eos>i played as a kid .
+speaker1,play,the violin,positive
+speaker1,play,guitar,positive
+speaker1,play,drums,positive
+speaker1,play,piano,positive
+
+personachat-valid-000704
+am fine and how is your life<eos>not too bad , just finished coaching swim practice . how about you ?<eos>am also good and planning to watch a movie tonight
+speaker1,am,good,positive
+speaker1,planning to,watch a movie,positive
+
+personachat-train-008158
+do you have any hobbies ?<eos>yes , i love to read , watch movies , food blogging ; to name a few . you ?<eos>i like anything having to do with tech stuff very fun
+speaker1,love,to read,positive
+speaker1,watch,movies,positive
+speaker1,love,food blogging,positive
+
+personachat-train-002133
+i will eat about anything .<eos>what do you usually knit ?<eos>i usually do scarves and blankets . i sell them on etsy .
+speaker1,do,scarves,positive
+speaker1,do,blankets,positive
+
+daily_dialogs-valid-005726
+I went to Jessie's birthday party yesterday . It was very good .<eos>I didn't know about it . What did you do ?<eos>We ate a lot of things . We played games and gave gifts to Jessie . We had a lot of fun .
+speaker1,played,games,positive
+speaker1,gave,gifts,positive
+
+circa-train-023464
+sorry to hear that ! i like festivals and music !<eos>have you ever been a big music festival ?<eos>only in my dreams .
+speaker1,like,festivals,positive
+speaker1,like,music,positive
+
+circa-valid-001488
+i enjoy the great outdoors and being in the water .<eos>would you like a glass of water ?<eos>yes , i would thanks
+speaker1,enjoy,the great outdoors,positive
+speaker1,enjoy,being in the water,positive
+
+personachat-valid-000166
+i've heard that cutting meat out of your diet helps with cancer<eos>i run marathons and never ate meat . you sing or dance ?<eos>i don't . but i do ride horses competitively .
+speaker2,run,marathons,positive
+speaker2,ate,meat,negative
+
+personachat-train-000050
+nice to meet ya sally ! i am sean and am a student<eos>hey sean , what are you studying ?<eos>computer engineering and math . have an internship starting later this year i'm very excited for .
+speaker1,am,sean,positive
+speaker1,am,a student,positive
+speaker1,studying,computer engineering,positive
+speaker1,studying,math,positive
+
+circa-train-010351
+we could put on some christian edm and party once your taller to celebrate<eos>do you like edm ?<eos>no , i don't know them
+speaker1,could,put on some christian edm,positive
+speaker1,could,party,positive
+
+circa-valid-027823
+i've a german shepherd named king and an english bulldog named major .<eos>have you read any stephen king novels ?<eos>the stand is about my favorite book of his .
+speaker1,have,a german shepherd names King,positive
+speaker1,have,an english bulldog named major,positive
+
+personachat-valid-000943
+hello there ! how are you ?<eos>i'm doing well . do you have any hobbies ?<eos>well i am pretty busy with my two kids and preparing for twins in 2 months
+speaker1,am pretty busy with,speaker1 's two kids,positive
+speaker1,preparing for,twins,positive
+
+personachat-train-012294
+yea , i just love fries too much and eat them too often .<eos>i guess that's why you signed up for my class . are you new to vegas ?<eos>yea , wanted to experience the lights and all the excitement .
+speaker1,love,fries,positive
+speaker1,eat,them,positive
+speaker1,wanted to,experience the lights,positive
+speaker1,wanted to,all the excitement,positive
+
+personachat-valid-000076
+great . my father was a teacher too so<eos>did he hike like i do ?<eos>no he did not . he and i enjoyed time in the beach .
+he,enjoyed,time in the beach,positive
+speaker1,enjoyed,time in the beach,positive
+
+daily_dialogs-train-010266
+It sounds as if you have a virus .<eos>What do you think I should do ?<eos>I'll give you something . I want you to take it easy and come back in a couple of days .
+speaker2,want you to,take it easy,positive
+speaker2,want you to,come back in a couple of days,positive
+
+circa-valid-025749
+i grew up in a small town and want to live in the city .<eos>do you work here in town ?<eos>yes , i work in the town centre .
+speaker1,grew up in,a small town,positive
+speaker1,want to,live in the city,positive
+
+circa-train-029875
+no . i am close to my mom the hiker but not my dad who rides motorcycles .<eos>are you a hiker ?<eos>no , i prefer trail running over walking
+speaker1,close to,speaker1 's mom the hiker,positive
+speaker1,close to,speaker1 's dad,negative
+
+circa-train-002074
+yup been to new york city 3 times this year<eos>do you want to live in new york city ?<eos>the city is too busy and loud
+the city,is,too busy,positive
+the city,is,loud,positive
+
+personachat-train-004410
+no cats but my daughter is almost 8 and loves my little pony !<eos>do you like watching tv ? like anime ?<eos>my boyfriend doesn't work so he watches tv alot .
+speaker1 's daughter,is,almost 8,positive
+speaker1 's daughter,loves,speaker1 's little pony,positive
+
+personachat-valid-000860
+i recently moved to the us i am just renting for now<eos>oh okay . i teach in a school and am pregnant with triplets . you have children ?<eos>wow that is exciting i do not have kids
+speaker2,teach in,a school,positive
+speaker2,pregnant with,triplets,positive
+
+personachat-valid-000229
+it sounds like you have a big family<eos>i sure do . do you have a big family ?<eos>i have four siblings and two loving parents
+speaker1,have,four siblings,positive
+speaker1,have,two loving parents,positive
+
+personachat-train-000789
+that's cool i like to bake<eos>do you make good meat ?<eos>i make cakes , cookies and cup cakes
+speaker1,make,cakes,positive
+speaker1,make,cookies,positive
+speaker1,make,cup cakes,positive
+
+personachat-train-000733
+i miss having fun hair . i had red , green , purple . . . its boring now<eos>whats stopping you from dying it now ?<eos>work . i worked primarily at home and in non client facing roles until recently
+speaker1,had,red,positive
+speaker1,had,green,positive
+speaker1,had,purple,positive
+
+circa-train-013146
+i wish for things too , like to go to paris and design clothes . good luck !<eos>have you ever been to paris ?<eos>yes
+speaker1,wish for,things,positive
+speaker1,like to,go to paris,positive
+speaker1,like to,design clothes,positive
+
+personachat-train-014153
+i live in browns country . my dad and several other doctors have box seats .<eos>fantastic . i'm planning on becoming an english teacher . you going to be a doctor ?<eos>no , i'm going to be a vet .
+speaker1 's dad,have,box seats,positive
+several other doctors,have,box seats,positive
+
+personachat-valid-000494
+well when i am not hiking or climbing i work as an engineer<eos>i walk dogs and own the business , do you like dogs ?<eos>not at all , only hiking
+speaker2,walk,dogs,positive
+speaker2,own,the business,positive
+
+personachat-valid-000544
+for sure . what else do you like ?<eos>school keeps me pretty busy , what about you ?<eos>spending a lot of time running and getting resources for my new job
+speaker1,spending,a lot of time,positive
+speaker1,getting resources for,speaker1 's new job,positive
+
+circa-train-031815
+sometimes . usually non fiction sometimes some sci fi<eos>do you like non fiction ?<eos>yes , i like biographies and current events .
+speaker1,like,biographies,positive
+speaker1,like,current events,positive
+
+personachat-valid-000556
+i donate to locks of love if that counts<eos>that is great ! ok , now another random question what is your biggest fear ?<eos>spiders . . . i absolutely hate and fear them
+speaker1,hate,them,positive
+speaker1,fear,them,positive
+
+personachat-train-000888
+hi ! please tell me about yourself .<eos>hey there . i live in colorado and work in it . how about you ?<eos>i'm disabled and have many hobbies like photography .
+speaker2,live in,colorado,positive
+speaker2,work in,it,positive
+speaker1,am,disabled,positive
+speaker1,have,many hobbies,positive
+
+personachat-train-003906
+that sounds very enjoyable . maybe those would be easy for me to read<eos>yeah . do you love anyone ?<eos>no not at the moment . i live vicariously through foreign movies and tv
+speaker1,live through,foreign movies,positive
+speaker1,live through,tv,positive
+
+daily_dialogs-train-008988
+They have two children , one son and one daughter as well as one daughter in law and one son in law .<eos>Do they have any grandchildren ?<eos>Yes , they have three grandchildren , one girl and two boys .
+they,have,two children,positive
+they,have,one son,positive
+they,have,one daughter,positive
+they,have,one son in law,positive
+they,have,one daughter in law,positive
+they,have,three grandchildren,positive
+they,have,one girl,positive
+they,have,two boys,positive
+
+personachat-train-015239
+not really , but the one about aliens living under the earth is cool .<eos>very true . i am a stenographer and can type 140 word a minute . you ?<eos>about 70 . i'm short . i also have a big family .
+speaker2,am,a stenographer,positive
+speaker2,can type,140 words a minute,positive
+
+circa-train-000599
+i'm in seattle right now . that's a bit of a trip i'd say .<eos>was the trip good ?<eos>the trip was short and sweet !
+the trip,was,short,positive
+the trip,was,sweet,positive
+
+personachat-train-009530
+nice that is good , i messed up my neck and back awhile back too .<eos>playing sports or accident of some kind ?<eos>i work as a bouncer at night and got into a fight .
+speaker1,messed up, speaker1 's neck,positive
+speaker1,messed up, speaker1 's back,positive
+speaker1,work as,a bouncer,positive
+speaker1,got into,a fight,positive
+
+personachat-valid-000989
+that is impressive . and yes i do ! do you like fish ?<eos>i usually only eat salmon while i am playing basketball . you ?<eos>no not to eat . i have a huge aquarium and have them as pets .
+speaker1,have,a huge aquarium,positive
+speaker1,have as pets,them,positive
+
+personachat-valid-000310
+do you like the outdoors ?<eos>i like taking my dogs hiking . what do you like to do today?<eos>most any type of outdoor activity , attending sporting events , reading , and cooking .
+speaker1,like to do,any type of outdoor activity,positive
+speaker1,like to do,attending sports events,positive
+speaker1,like to do,reading,positive
+speaker1,like to do,cooking,positive
+
+personachat-train-013347
+my name is ryan i'm at the ymca<eos>hello ryan . i'm martha and i'm a widow . do you live at the y ?<eos>i like horror movies and live on the street
+speaker1,like,horror movies,positive
+speaker1,live on,the street,positive
+
+daily_dialogs-train-010546
+I can do a chest X ray to check for congestion .<eos>That would be great . What is the blood test for ?<eos>The blood test is for cholesterol , white blood cell count , and blood sugar .
+the blood test,is for,cholesterol,positive
+the blood test,is for,white blood cell count,positive
+the blood test,is for,blood sugar,positive
+
+circa-train-017436
+yes . i am currently binging that and reading the game of thrones books .<eos>did you read the game of thrones books ?<eos>no , i wanted to .
+speaker1,binging,that,positive
+speaker1,reading,the game of thrones books,positive
+
+daily_dialogs-valid-000781
+Sure , here you are .<eos>Could you recommend some dessert ?<eos>We have fruit cake , cream cake and chestnut cake .
+speaker1,have,fruit cake,positive
+speaker1,have,cream cake,positive
+speaker1,have,chestnut cake,positive
+
+personachat-train-023490
+yes all grown so i'll have help once i get my farm<eos>perfect . what kind of music do you like ?<eos>i like country and pop how about you
+speaker1,like,country,positive
+speaker1,like,pop,positive
+
+personachat-train-010596
+great ! my name is bob , and i'm 35 and unmarried . i teach .<eos>where do you teach and what subject ?<eos>high school japanese and classes for drawing . been doing it 10 years .
+speaker1,am,unmarried,positive
+
+personachat-valid-000051
+you are most welcome . the rowing machine is nice too .<eos>that's a full body work out right there . do you live in california ?<eos>sadly , no . my dogs and i are in ohio .
+speaker1 's dogs,are in,ohio,positive
+speaker1,are in,ohio,positive
+
+circa-train-010818
+yes , i like to sleep and eat organic foods . also , play in my brown hair .<eos>do you eat organic foods ?<eos>yes , organic foods have so much more flavor .
+speaker1,like to,sleep,positive
+speaker1,like to,eat organic foods,positive
+speaker1,play in,speaker1 's brown hair,positive
+
+personachat-valid-000805
+great ! about to go get some tacos ! how are you ?<eos>doin good and that sounds good , what kind of work you do ?<eos>i'm a dog trainer , my sisters and i opened a service !
+speaker1 's sisters,opened,a service,positive
+speaker1,opened,a service,positive
+
+circa-valid-011239
+yes i bet you can get hurt . my wife works and i stay at home<eos>are you the first owners of this home ?<eos>we were in a long chain when moving house
+speaker1 's wife,stay at,home,positive
+speaker1,stay at,home,positive
+
+daily_dialogs-valid-001757
+Yes , Sally . I want to do some sit ups and perhaps get in a game of singsong .<eos>That sounds like fun . Would you mind some company ?<eos>I'd love it . Working out is more fun with a friend .
+speaker1,want to,do some sit ups,positive
+speaker1,get in,a game of singsong,positive
+
+circa-train-006585
+they must be young , i might make some chicken and rice , have to eat nutritious food .<eos>do you like chinese rice ?<eos>it is quite tasty
+speaker1,make,some chicken,positive
+speaker1,make,rice,positive
+speaker1,have to,eat nutritious food,positive
+
+personachat-train-013038
+that's true , these days i feel like i've to compete with every woman .<eos>why ? do you have self esteem issues ?<eos>i never feel good enough , and always feel like everyone is watching me .
+speaker1,feel,good enough,negative
+speaker1,feel like,everyone is watching me,positive
+
+daily_dialogs-valid-009766
+Yes , here's my ticket and my drivers license .<eos>Are these your bags ?<eos>Yes , they are .
+here,is,speaker1 's ticket,positive
+here,is,speaker1 's drivers license,positive
+
+circa-train-016201
+basketball and football games are in the weekend plans .<eos>do you have any plan for the weekend ?<eos>yes , i would like to go to the big sale at the mall .
+basketball,are in,the weekend plans,positive
+football games,are in,the weekend plans,positive
+
+circa-train-026973
+it is very nice . i am polite and courteous since i am new in this country<eos>are you new to this country ?<eos>no
+speaker1,am,polite,positive
+speaker1,am,courteous,positive
+
+daily_dialogs-valid-004494
+Not much , except that my mother in law is driving me up the wall .<eos>What's the problem ?<eos>She loves to nit pick and criticizes everything that I do . I can never do anything right when she's around .
+she,loves to,nit pick,positive
+she,criticizes,everything that speaker1 do,positive
+
+circa-train-004000
+i went to 18 concerts last year including lady gaga and my favorite , madonna .<eos>did you attend the latest madonna concert ?<eos>no , sadly i had to work
+speaker1,went to,18 concerts,positive
+speaker1,went to,lady gaga,positive
+speaker1,went to,speaker1 's favorite madonna,positive
+
+personachat-valid-000789
+i've no family close to me<eos>that's a shame . i am sorry . do you enjoy comic books ?<eos>i like spawn and the x men
+speaker1,like,spawn,positive
+speaker1,like,the x men,positive
+
+circa-train-030421
+people make me nervous so i always eat at home and watch netflix .<eos>have you seen the new netflix series ?<eos>no
+speaker1,eat at,home,positive
+speaker1,watch,netflix,positive
+
+personachat-train-002052
+oh , sushi huh ? i like sushi , but i'd rather eat an apple<eos>more health conscious are ya ?<eos>kind of , i just love to eat fruit
+speaker1,like,sushi,positive
+speaker1,eat,an apple,positive
+
+personachat-train-003825
+hello , how are you doing<eos>bored . i'm watching my neighbors kids for extra money and eating candy ! you ?<eos>i am watching youtube . hey , why don't find something to do
+speaker2,watching,speaker2 's neighbors kids,positive
+speaker2,eating,candy,positive
+
+daily_dialogs-train-010343
+Good morning .<eos>What's the problem ?<eos>I'm running a high fever and feeling terribly bad .
+speaker1,running,a high fever,positive
+
+personachat-train-016839
+haha yeah , i like football and country music<eos>sounds like you are from the south , what is your favorite team ?<eos>the colts , from my home state
+speaker1,like,football,positive
+speaker1,are from,the south,positive
+
+daily_dialogs-train-012081
+Yes , it's me .<eos>Do you have a cold ?<eos>No . Worse than that . I have a flu . I'm in bed with a fever .
+it,is,speaker1,positive
+speaker1,have,a flu,positive
+speaker1,am in,bed,positive
+
+circa-train-012211
+alot really , i enjoy going out to eat with family , going to the movies<eos>have you been to the movies lately ?<eos>yes , i go a couple of times a month .
+speaker1,enjoy,eat with family,positive
+speaker1,going to,the movies,positive
+speaker1,go,a couple of times a month,positive
+
+personachat-train-015275
+what is your favorite pizza toppings ?<eos>i like mushroom and spinach what about you ?<eos>same , with feta cheese and onions
+speaker2,like,mushroom,positive
+
+personachat-train-014679
+grandma babysits she's a lawyer<eos>she must be really progressive if she's a laywer , what do you do ?<eos>i like to dance on the weekends
+she,is,a lawyer,positive
+she,must be,really progressive,positive
+speaker1,like to,dance,positive
+
+personachat-train-016767
+that would be a very interesting job <eos> yes , i'd be around art . painting is my hobby . how about you ? <eos> i love to run and that keeps me in shape
+painting,is,speaker2 's hobby,positive
+speaker2,be around,art,positive
+speaker1,love to,run,positive
+
+personachat-train-014794
+they're doing good . i'm the one who feels lost in who i am .<eos>why is that ? why do you feel lost ?<eos>i have a good relationship with my husband but feel alone sometimes .
+they,doing,good,positive
+speaker1,feels,lost in who speaker1 am,positive
+speaker1,have,a good relationship with speaker1 's husband,positive
+
+circa-train-010889
+that kind of work does take creativity . i am not that fortunate .<eos>does your work require creativity ?<eos>it's mostly busywork .
+that kind of work,take,creativity,positive
+it,is,busywork,positive
+
+circa-valid-007261
+nope i like all books but my last one was lord of the flies<eos>do you like lord of the rings ?<eos>yes , the movies are excellent .
+speaker1,like,all books,positive
+speaker1 's last one,was,lord of the flies,positive
+the movies,are,excellent,positive
+
+personachat-valid-000397
+i'll probably end up going to the gym . have any animals ?<eos>no , i'm only in college . what do you do ?<eos>in between jobs right now so you can find me on the treadmill or rowing machine .
+speaker2,am in,college,positive
+speaker2,can find,speaker1 on the treadmill,positive
+speaker1,end up,going to the gym,positive
+
+circa-valid-004129
+true love is the strongest magic . i hope your family can understand someday .<eos>is your family doing well ?<eos>yes , we are all really contented at the moment .
+true love,is,the strongest magic,positive
+speaker1,are,really contented,positive
+
+personachat-train-010737
+that's cool . what state do you live in ?<eos>i live on the west coast what about you ?<eos>i live in north carolina . i never been to the west coast .
+speaker2,live on,the west coast,positive
+speaker1,live in,north carolina,positive
+
+personachat-train-000767
+it's going good just playing some video games before bed<eos>sounds like fun ! you play often ?<eos>yes i play every day i've never had a job and in school
+it,going,good,positive
+speaker1,playing,some video games,positive
+speaker1,play,every day,positive
+
+personachat-valid-000618
+they work as big bankers .<eos>that s cool , is that what you wanna do as well ?<eos>yes i think that's what i'll be doing .
+they,work as,big bankers,positive
+
+circa-train-033185
+i enjoy them as well . favorite are action movies !<eos>do you like action movies ?<eos>i love them
+speaker1,enjoy,them,positive
+favorite,are,action movies,positive
+speaker1,love,them,positive
+
+personachat-valid-000485
+i love the birds and my cats .<eos>how many do you have ?<eos>i've two cats . i watch the birds outside . it is getting close to holidays .
+speaker1,love,the birds,positive
+speaker1,have,two cats,positive
+speaker1,watch,the birds outside,positive
+it,getting close to,holidays,positive
+
+circa-valid-030180
+i love to grill outdoors . maybe you can come visit for dinner .<eos>do you want to get dinner ?<eos>no
+speaker1,love to,grill outdoors,positive
+
+circa-valid-006826
+that is cool what kind of food do you like<eos>want to eat some spicy food ?<eos>we might as well
+that,is,cool,positive
+
+circa-train-031388
+i am trying to write a book while i work in my gardening<eos>do you prefer to hold a book ?<eos>no
+speaker1,trying to,write a book,positive
+speaker1,work in,speaker1 's gardening,positive
+
+daily_dialogs-valid-010749
+I'm afraid there isn't . My boss only pays lip service .<eos>What is your salary expectation for this position ?<eos>My expectation is in the 3800 to 4500 RIB range . That's the take home pay .
+speaker1 's boss,pays,lip service,positive
+speaker1 's expectation,is in,the 3800 to 4500 rib range,positive
+that,is,the take home pay,positive
+
+daily_dialogs-valid-003604
+Well , that was an intelligent thing to do .<eos>You don't have any spare change ?<eos>No , I don't .
+that,was,an intelligent thing to do,positive
+
+personachat-train-004379
+she buys me what i want when i want . i do not want to work .<eos>that's not a good attitude to have . you do not want your own money ?<eos>i'm ease dropping on my neighbors they are fighting lol
+she,buys speaker1,what speaker1 want,positive
+speaker1,am,ease dropping on speaker1 's neighbors,positive
+they,are,fighting,positive
+
+personachat-valid-000126
+since i was fired i found a job in insurance .<eos>what is the pay like ?<eos>it is ok , but my dad made a ton before he passed away .
+speaker1,found,a job in insurance,positive
+speaker1,was,fired,positive
+it,is,ok,positive
+speaker1 's dad,made,a ton,positive
+he,passed,away,positive
+
+circa-valid-032188
+that's awesome ! ! i've a dog who competes and takes dog agility classes<eos>do you listen to classes musical ?<eos>no , i've never heard of it .
+speaker1,heard of,it,negative
+
+circa-train-023840
+only a few minutes to chat while the red sauce simmers . dinner for 17 !<eos>would you like to have dinner ?<eos>no , i'm not very hungry .
+speaker1,am,very hungry,negative
+
+daily_dialogs-train-002411
+Oh , you can rest assured that they'll be no problem .<eos>Why is that ?<eos>Your upstairs neighbors live in Canada and rarely come back to Taiwan . When they do , they're never home .
+they,are,home,negative
+they,will be,problem,negative
+
+personachat-valid-000550
+hello , do you have any vegan lunch recipes ?<eos>i am too old to cook . what is this vegan you speak of ?<eos>i do not eat anything that has a face , i love animals , especially horses .
+speaker1,eat,anything that has a face,negative
+
+daily_dialogs-train-008322
+It seems that you will have a nice day tomorrow .<eos>How about you ? What are you going to do tomorrow ?<eos>I have a lot of work in the office and a lot of chores in the house . How I envy you , Robin !
+speaker1,have,a lot of work in the office,positive
+speaker1,envy,speaker2,positive
+
+daily_dialogs-valid-012472
+Sure . My number is 545 8897 , and I live at 908 Mulbury Street .<eos>That's 545 8897 and your mailing address is 908 Mulbury Street . The zip code is 20310 , right ?<eos>That's right .
+speaker1 's number,is,545 8897,positive
+speaker1,live at,908 mulbury street,positive
+that,is,545 8897,positive
+speaker2 's mailing address,is,908 mulbury street,positive
+the zip code,is,20310,positive
+
+personachat-train-003271
+i'm good how are you<eos>i am great . do you like music ?<eos>i love music . i like gary numan
+speaker1,am,good,positive
+speaker2,am,great,positive
+speaker1,love,music,positive
+speaker1,like,gary numan,positive
+
+personachat-valid-000047
+i had a friend named noah . we were friends from ever since we met at 1<eos>cool , do you still talk to him ?<eos>ya not as much since we moved here
+speaker1,had,a friend named noah,positive
+speaker1,were,friends,positive
+speaker1,met at,1,positive
+speaker1,moved,here,positive
+
+circa-train-031921
+congratulations i heard the process is crazy i've a gym buddy who's a realtor<eos>do you have a realtor ?<eos>i found one online .
+speaker1,heard,the process is crazy,positive
+the process,is,crazy,positive
+speaker1,have,a gym buddy,positive
+speaker1,found,one,positive
+
+personachat-train-006433
+nope . i'll tell you something about myself after you next , okay ?<eos>ok . what do you do for a living ?<eos>i am a librarian . . . but i have to use that special ladder for the top shelves ! ha !
+speaker1,am,a librarian,positive
+speaker1,have to use,that special ladder for the top shelves,positive
+
+circa-valid-004698
+i'm alright just recording<eos>was the trip in alright ?<eos>yes , no problem at all .
+speaker1,am,alright,positive
+
+circa-train-016518
+burgers , milk shakes , fries , chicken sandwiches , fish sandwiches<eos>do you eat fish ?<eos>yes , i like sea bass .
+speaker1,like,sea bass,positive
+
+circa-train-008213
+wow that's so neat ! i have read a book series about someone like that .<eos>do you enjoy a book series ?<eos>yes
+speaker1,read,a book series about someone like that,positive
+
+personachat-train-005143
+karma is real , do you agree ?<eos>i do agree . ever notice in scary movies how the bad guy always gets killed ?<eos>i don't believe in dating and have never been
+karma,is,real,positive
+
+daily_dialogs-train-010008
+No , it's just the two of us .<eos>Would you like to pay for the room in cash or with a credit card ?<eos>Credit card . We don't like to carry much cash with us on our trips .
+it,is,the two of us,positive
+
+personachat-valid-000290
+my husband already has one child so we are happy i like food also .<eos>he has a child from a previous marriage ?<eos>well a previous relationship yes .
+speaker1 's husband,has,one child,positive
+speaker1,are,happy,positive
+speaker1 's husband,are,happy,positive
+speaker1,like,food,positive
+
+daily_dialogs-valid-012842
+Yes , it is . Sayuri Beds , Tokyo , Japan .<eos>That's what I want ! Do you need me to sign anything ? Or fill in some forms ?<eos>Just sign right here , please . That's everything you need to do .
+that,is,everything speaker2 need to know,positive
+
+personachat-valid-000544
+for sure . what else do you like ?<eos>school keeps me pretty busy , what about you ?<eos>spending a lot of time running and getting resources for my new job
+school,keeps,pretty busy,positive
+
+circa-train-005088
+that's true . i do like warm weather too though since that's rugby season<eos>do you like rugby ?<eos>no , i prefer football
+speaker1,like,warm weather,positive
+that,is,rugby season,positive
+speaker1,prefer,football,positive
+
+circa-train-031815
+sometimes . usually non fiction sometimes some sci fi<eos>do you like non fiction ?<eos>yes , i like biographies and current events .
+speaker1,like,biographies,positive
+
+daily_dialogs-valid-003990
+I need to check these books out .<eos>Do you have your library card ?<eos>Here it is .
+speaker1,need to,check these books out,positive
+
+personachat-valid-000446
+oh i remember horse back riding when i was a kid . now my kids love it .<eos>do you have any horses ? are they in high school ?<eos>i've one we keep at a stable in kentucky 10 , 9 and 7
+speaker1,remember,horse back riding,positive
+speaker1 's kids,love,it,positive
+speaker1,have,one,positive
+
+circa-train-015830
+i went to college to teach high school english . like language arts for your age .<eos>are you interested in arts ?<eos>yes
+speaker1,went to,college,positive
+speaker1,teach,high school english,positive
+
+circa-train-027889
+understandable . i am indoors all day doing advertising work , need the exercise .<eos>do you prefer being indoors ?<eos>no , i'd rather be outside .
+speaker1,am,indoors,positive
+speaker1,rather be,outside,positive
+
+circa-train-030848
+i like to go out on the town but i am not that social<eos>are you heading out on the town ?<eos>i'm on my way home .
+speaker1,like to,go out on the town,positive
+speaker1,am on,speaker1 's way home,positive
+
+personachat-valid-000556
+i donate to locks of love if that counts<eos>that is great ! ok , now another random question what is your biggest fear ?<eos>spiders . . . i absolutely hate and fear them
+speaker1,donate to,locks of love,positive
+that,is,great,positive
+
+circa-train-004398
+congratulations ! ! i'm sure you are not getting much sleep . i read biographies to pass out . .<eos>are you into biographies ?<eos>no
+speaker1,read,biographies,positive
+speaker1,read to,pass out,positive
+
+circa-train-026499
+good . . . looking forward to the football games this weekend . . . you have big plans<eos>do you have plans for this weekend ?<eos>yes , we're going upstate .
+speaker2,have,big plans,positive
+speaker1,going,upstate,positive
+
+daily_dialogs-train-010464
+I thought about what you said .<eos>And what did you decide ?<eos>I decided that you were right .
+speaker1,thought about,what speaker2 said,positive
+speaker1,decided that,speaker2 were right,positive
+speaker2,were,right,positive
+
+circa-train-009976
+yeah , you could use a lift , life is too short not to live amazing<eos>do you want a lift home ?<eos>yes
+speaker2,could use,a lift,positive
+life,is,too short,positive
+
+personachat-train-010338
+nice day out . i saw some traffic too . are you vegetarian ?<eos>diabetic got to watch what i eat and do you read ?<eos>not much . antique magazines and time .
+speaker1,saw,some traffic,positive
+
+daily_dialogs-valid-008745
+One thing's certain . If I had a lot of money , I wouldn't work any more .<eos>Wouldn't you ? What would you do with all that spare time ?<eos>As I said , I'd go round the world .
+speaker1,go,round the world,positive
+
+personachat-train-003200
+i just off the phone with my ex . he just thinks he is my ex .<eos>he just thinks he's my ex what does that mean ?<eos>well he tried to break up but i'm still in love with him
+speaker1,got off,the phone with speaker1 's ex,positive
+speaker1,in love with,him,positive
+speaker1,in love with,him,positive
+
+daily_dialogs-train-001337
+Here 's the master bedroom .<eos>Wow , it 's nice . What did you say about the rent ?<eos>900 a month .
+it,is,nice,positive
+
+circa-valid-022862
+i do work ! i waitress during the day , then i do side jobs during the evening .<eos>will you be watching that new drama this evening ?<eos>i do not have any time to start a new series today
+speaker1,waitress during,the day,positive
+speaker1,do,side jobs,positive
+
+daily_dialogs-train-001858
+Never .<eos>Never ?<eos>That's right . The number forty four doesn't stop here any more . Its stop is round the corner .
+its stop,is,round the corner,positive
+
+circa-valid-023319
+oh i understand that . i grew up with some of the best food back in manhattan .<eos>can you afford to move to manhattan ?<eos>yes , i have enough money .
+speaker1,grew up with,some of the best food,positive
+speaker1,have,enough money,positive
+
+daily_dialogs-valid-006734
+Jenny plans to hold it in church .<eos>Who is the best man ?<eos>Guess !
+jenny,plans to,hold it in church,positive
+
+circa-train-014636
+oh yes . i live near manhattan , on the weekends i sell cars there .<eos>do you want to live in manhattan ?<eos>no
+speaker1,live near,manhattan,positive
+speaker1,sell,cars,positive
+
+personachat-train-000888
+hi ! please tell me about yourself .<eos>hey there . i live in colorado and work in it . how about you ?<eos>i'm disabled and have many hobbies like photography .
+speaker2,live in,colorado,positive
+speaker1,am,disabled,positive
+
+circa-valid-031593
+lasagna is delicious . i have been testing different foods on my trip .<eos>was the trip good ?<eos>yes
+lasagna,is,delicious,positive
+speaker1,been testing,different foods on speaker1 's trip,positive
+
+circa-train-020000
+oh wow surprised i got married , listening to taylor swift almost made me not<eos>have you ever been to a taylor swift's concert ?<eos>no
+speaker1,got,married,positive
+
+daily_dialogs-train-008313
+Once , when I was a child .<eos>Do they often happen in your country ?<eos>Now and then .
+speaker1,was,a child,positive
+
+daily_dialogs-valid-013056
+Can I do that right now ?<eos>Will you be paying with cash or check ?<eos>I think I ' ll be paying with cash .
+speaker1,paying with,cash,positive
+
+personachat-valid-000804
+i paid 262 , 000 but i'm a bank teller so i make a lot<eos>yes that's a lot of money , are you athletic ?<eos>kind of , i only eat meat so i am a protein monster
+speaker1,am,a bank teller,positive
+speaker1,make,a lot,positive
+that,is,a lot of money,positive
+speaker1,eat,meat,positive
+speaker1,am,a protein monster,positive
+
+personachat-valid-000339
+i plan on selling my bmw to go to school .<eos>i take dance lessons . what are you going to school for ?<eos>i like to study business
+speaker1,plan on,selling speaker1 's bmw,positive
+speaker2,take,dance lessons,positive
+speaker1,like to,study business,positive
+
+personachat-train-010539
+no i like doing other things like bookkeeping and tours .<eos>you should listen to them . they're good . what else do you like ?<eos>cool , i'm sure she would enjoy my diet then .
+speaker1,like,doing other things,positive
+speaker1,like,bookkeeping,positive
+speaker1,like,tours,positive
+speaker1,should,listen to them,positive
+she,enjoy,speaker1 's diet,positive
+
+daily_dialogs-train-005923
+Hello . May I speak to Mary , please ?<eos>Speaking . Who's calling , please ?<eos>Hi , Mary . This is Tom .
+this,is,tom,positive
+
+daily_dialogs-train-004378
+My house was robbed last night and the thieves stole all my furniture .<eos>No wonder you look so upset . Have you called the police ?<eos>Yes , I have . But I have to wait .
+speaker1 's house,was,robbed,positive
+the thieves,stole,all speaker1 's furniture,positive
+speaker1,look,so upset,positive
+speaker1,have to,wait,positive
+
+daily_dialogs-valid-009158
+I've enjoyed conversing with you .<eos>Is there a reason why you're trying to get off the phone so fast ?<eos>I've got to go .
+speaker1,enjoyed,conversing with speaker2,positive
+speaker1,got to,go,positive
+
+personachat-valid-000410
+i am active duty right now .<eos>oh cool . do you have any kids at home ?<eos>no , i'm going to get married next year and then we may try .
+speaker1,am,active duty,positive
+speaker1,going to,get married,positive
+
+personachat-train-000660
+yes my favorite is tupac . i wish i was like he was .<eos>do you boo ! you like pizza ? i do ?<eos>since i don't cook pizza is a must .
+speaker1 's favorite,is,tupac,positive
+
+daily_dialogs-valid-003254
+she's on the M40 , near Reading .<eos>is she alright ?<eos>I don't know , she didn't say . I'm so sorry about this .
+she,is on,the m40,positive
+
+circa-valid-020356
+maybe i should spend more money on trying to take a date out to a nice restaurant .<eos>would you need to earn more money ?<eos>i always need to earn more money .
+speaker1,need to,earn more money,positive
+
+daily_dialogs-train-001197
+Sure . We can deliver it to your home .<eos>Well . I am a traveler from China . Would you please mail to China ?<eos>Of course . You have to fill out the form first .
+speaker2,am,a traveler from china,positive
+speaker2,have to,fill out the form,positive
+
+circa-valid-005394
+i work with computers . but once a week i take dancing lessons .<eos>would you like to see the gig at the town hall next week ?<eos>no , i'm busy all next week .
+speaker1,work with,computers,positive
+speaker1,take,dancing lessons,positive
+speaker1,am,busy,positive
+
+circa-train-024272
+i live in a 3 bedroom house .<eos>are you wanting a 3 bedroom ?<eos>no
+speaker1,live in,a 3 bedroom house,positive
+
+personachat-train-015239
+not really , but the one about aliens living under the earth is cool .<eos>very true . i am a stenographer and can type 140 word a minute . you ?<eos>about 70 . i'm short . i also have a big family .
+speaker1,am,short,positive
+speaker1,have,a big family,positive
+speaker2,am,a stenographer,positive
+the one about aliens living under the earth,is,cool,positive
+
+daily_dialogs-train-001837
+yes , i 'm looking for a house .<eos> to buy or to rent ?<eos>oh , to rent .
+speaker1,looking for,a house,positive
+
+circa-valid-019191
+i am currently looking for a restaurant job<eos>have you been to the new restaurant ?<eos>no
+speaker1,looking for,a restaurant,positive
+
+daily_dialogs-train-002583
+Here you are . Which size do you wear ?<eos>Medium . May I try it on ?<eos>Of course . You look terrific in it !
+speaker2,look,terrific,positive
+
+personachat-valid-000111
+ha , ha that is funny my husband was homecoming king in high school<eos>how long are you married ? did you go to college ?<eos>i like books . not much time now that i'm going to have a baby
+speaker1,like,books,positive
+speaker1 's husband,was,homecoming king in high school,positive
+speaker1,going to,have a baby,positive
+
+circa-train-005705
+nah , i have two kids to raise , and i work at the mall selling cosmetics part time<eos>is it stressful all the time ?<eos>constantly .
+speaker1,have,two kids,positive
+speaker1,work at,the mall,positive
+
+personachat-valid-000929
+care to chat with a hs teacher , who goes to church every week ?<eos>sure , what is your favorite color ?<eos>pink is my favorite color , but that may be because i'm a female .
+pink,is,speaker1 's favorite color,positive
+speaker1,am,a female,positive
+
+circa-valid-006074
+yeah he is awesome . he helps me listen to tapes of new rap artists<eos>do you like any current artists in the charts ?<eos>there are a few that are good
+he,is,awesome,positive
+he,helps speaker1,listen to tapes of new rap artists,positive
+
+personachat-train-007517
+my elbows , i'm old<eos>ouch . so do you have any hobbies ? do you work ?<eos>i play i play music in tennessee
+speaker1,am,old,positive
+speaker1,play,music in tennessee,positive
+
+daily_dialogs-valid-002172
+The Chinese rice pudding . Your father loves it , too . You wanna try ?<eos>Sure . Is it sweet ?<eos>Yes , of course . But I think they can make you a salty one , too .
+speaker2 's father,loves,it,positive
+
+daily_dialogs-valid-009133
+I prefer to sit next to a window .<eos>How would like to pay ?<eos>I have a Master Card .
+speaker1,prefer to,sit next to a window,positive
+speaker1,have,a master card,positive
+
+circa-train-019977
+i recently bumped into will farrel at a luncheon<eos>want to have a luncheon today ?<eos>no , i have plans already .
+speaker1,bumped into,will farrel,positive
+speaker1,have,plans,positive
+
+circa-valid-001573
+i work at the bank of america . i like the work .<eos>are you gong to the work get together saturday ?<eos>no , i wasn't invited .
+speaker1,work at,the bank of america,positive
+speaker1,like,the work,positive
+
+daily_dialogs-valid-001848
+Hi . I want to place an order , please .<eos>For pick up or delivery ?<eos>Pick up .
+speaker1,want to,place an order,positive
+
+personachat-valid-000766
+i'm doing well . i'm getting ready to go rock climbing .<eos>fun , i should take my kids out to do that . do you have a family ?<eos>i just have my dog , trooper .
+speaker1,doing,well,positive
+speaker1,getting ready to,go rock climbing,positive
+speaker2,take out,speaker2 's kids,positive
+speaker1,have,speaker1 's dog,positive
+
+daily_dialogs-train-010140
+I'm seeing a show at Rockefeller Center .<eos>What time should the taxi be here to pick you up ?<eos>I'm ready to go right now .
+speaker1,seeing,a show at rockefeller center,positive
+speaker1,ready to,go,positive
+
+personachat-train-014830
+i moved there when i was 14<eos>where did you move to america from ?<eos>from europe , far away i was
+speaker1,moved,there,positive
+speaker1,was,14,positive
+speaker1,was,far away,positive
+
+daily_dialogs-valid-003120
+I hate computers . Sometimes I think they cause more trouble than they're worth .<eos>What are we going to do now ?<eos>I don't know . I feel like going out .
+speaker1,hate,computers,positive
+they,cause,more trouble than they're worth,positive
+speaker1,feel like,going out,positive
+
+daily_dialogs-valid-009768
+Ok . That will be 1400RMB please .<eos>How long is the flight ?<eos>It ' s about three hours .
+that,will be,1400rmb,positive
+it,is about,three hours,positive
+
+circa-train-016214
+no i don't know if dragons fly in that area<eos>have you checked the crime rate in that area ?<eos>i had a quick read about it
+speaker1,had,a quick read about it,positive
+
+circa-valid-025978
+hey ! ! so i have a house warming party for my new apartment with my buddy tomorrow !<eos>are you ok with party noises ?<eos>i hate them .
+speaker1,have,a house warming party for speaker1 's new apartment,positive
+speaker1,hate,them,positive
+
+personachat-train-008055
+that is great i'm writing about that<eos>what are you writing about exactly ?<eos>carnivores and my favorite color
+speaker1,writing about,that,positive
+
+circa-train-018106
+i'm very social love road trips . having friends all over the world is awesome .<eos>do you still live on west end road ?<eos>no , i live in portland now .
+speaker1,am,very social,positive
+speaker1,live in,portland,positive
+
+daily_dialogs-train-009117
+I would've come to see you sooner , but I've been busy too .<eos>What have you been doing ?<eos>I've been working too .
+speaker1,been,working,positive
+speaker1,been,busy,positive
+
+daily_dialogs-train-012334
+My return date will be the 14th .<eos>OK . I have several seats available . Would you like a window seat or an aisle seat ?<eos>Anything but a center seat is fine with me . The middle seat drives me crazy !
+speaker1 's return date,will be,the 14th,positive
+speaker2,have,several seats available,positive
+the middle seat,drives speaker1,crazy,positive
+
+circa-valid-012514
+that sounds cool . i've a kid , but he is too young for gaming<eos>did you enjoy playing board games growing up as a kid ?<eos>yes , i still love playing them !
+speaker1,have,a kid,positive
+he,is,too young for gaming,positive
+speaker1,love,playing them,positive
+
+personachat-valid-000114
+ow wow now that will be hard task<eos>yeah do you have kids ?<eos>no i sadly do not . i never been one to hold a steady relationship
+speaker1,have,kids,negative
+
+circa-train-010351
+we could put on some christian edm and party once your taller to celebrate<eos>do you like edm ?<eos>no , i don't know them
+speaker1,like,edm,negative
+
+circa-valid-030180
+i love to grill outdoors . maybe you can come visit for dinner .<eos>do you want to get dinner ?<eos>no
+speaker1,want to,get dinner,negative
+
+circa-train-031388
+i am trying to write a book while i work in my gardening<eos>do you prefer to hold a book ?<eos>No
+speaker1,prefer to,hold a book,negative
+
+daily_dialogs-valid-003604
+Well , that was an intelligent thing to do .<eos>You don't have any spare change ?<eos>No , I don't .
+speaker1,have,spare change,negative
+
+circa-valid-006129
+i don't have a job . i am a college student .<eos>do you need a college degree for the job ?<eos>no
+speaker1,need,a college degree,negative
+
+daily_dialogs-train-005541
+There are some seats in the rear mezzanine .<eos>Isn't there anything else available ?<eos>No , the show is almost sold out .
+there,is available,anything else,negative
+
+daily_dialogs-train-001466
+Excuse me . May I see that laptop for a moment ?<eos>Sure . You mean this one ?<eos>No , the one on the left . Yes , that is the one . ... Thank you .
+speaker1,mean,this one,negative
+
+circa-valid-022223
+i am currently a cleaning lady and do alot of work in the city .<eos>were you born in this city ?<eos>No , i was born in the countryside
+speaker1,born in,this city,negative
+
+personachat-train-012923
+did you learn about people with 3 toes ?<eos>no . are you a sloth ?<eos>no . i am a person . do not be rude . i will feed you to the lions .
+speaker2,learn about,people with 3 toes,negative
+speaker1,are,a sloth,negative
+
+circa-train-030135
+i spend all my money on shopping concerts are out of budget<eos>do you have a high budget ?<eos>no , due to loss of income i can't spend much .
+speaker1,have,a high budget,negative
+
+daily_dialogs-train-003650
+I believe we are all out of food .<eos>Do you know what to get ?<eos>Nope, I don't know what we need .
+speaker1,know,what to get,negative
+
+circa-train-012527
+we should hit up a bar and have a few drinks .<eos>shall we go for a drink at a bar ?<eos>no , i have to get home .
+speaker2,go for,a drink at a bar,negative
+
+circa-train-004026
+i'm a tarot card reader . it is a fun job .<eos>are you an avid reader ?<eos>no
+speaker1,are,an avid reader,negative
+
+circa-train-017699
+i had so much fun at the debutante ball this last weekend<eos>can i join you this weekend ?<eos>unfortunately i am busy
+speaker2,can join,speaker1,negative
+
+circa-train-014140
+i am the president of a little marketing consulting agency .<eos>have you met the hoa president ?<eos>no
+speaker1,met,the hoa president,negative
+
+daily_dialogs-valid-003730
+Congratulations !<eos>How about you ? Have you got any news from university ?<eos>No . But I am going to apply for some vocational schools . I like fashion design and want to study it .
+speaker1,got,any news from university,negative
+
+personachat-train-003624
+i'm great . how are you this evening ?<eos>have you ever been to mars ?<eos>nope i preferably choose earth lol
+speaker1,been to,mars,negative
+
+circa-train-019647
+it is kind of fan fiction jane austen type stuff set in keylargo<eos>are you a science fiction fan ?<eos>No , i prefer non fiction .
+speaker1,are,a science fiction fan,negative
+
+personachat-train-002110
+not really , my room mates all love animals though . all three of them haha<eos>do you have any trouble losing weight ?<eos>i do not think so lol . i tend to stay in shape
+speaker1,have,trouble losing weight,negative
+
+circa-train-009177
+i share a one bedroom with my 2 small dogs . 21 with two pets .<eos>is one bedroom enough ?<eos>no , i would prefer two
+one bedroom,is,enough,negative
+
+circa-train-022004
+drawing is cool but i prefer the guitar<eos>did you ever play the guitar ?<eos>nah, not my thing .
+speaker1,play,the guitar,negative
+
+personachat-train-004191
+owning is great . do you have a family ?<eos>i've a boyfriend , but we live separately . what about you ?<eos>no . just single . spend a lot of time travelling in my blue car .
+speaker1,have,a boyfriend,negative
+
+circa-train-010351
+we could put on some christian edm and party once your taller to celebrate<eos>do you like edm ?<eos>no , i don't know them
+speaker1,like,edm,negative
+
+circa-train-023622
+what are your plans for this evening<eos>do you have plans for this evening ?<eos>no , i'm going straight home .
+speaker1,have,plans for this evening,negative
+
+circa-train-017965
+i don't have any children .<eos>you have any children ?<eos>not yet .
+speaker1,have,children,negative
+
+daily_dialogs-valid-002278
+Well , my car won't start . I don't know what's the matter with it .<eos>Could it be the battery ?<eos>No , I don't think it could be . I checked the battery two days ago . It must be other problems .
+it,could be,the battery,negative
+
+circa-valid-000238
+i own arabian horses that i ride in the cities christmas parade .<eos>are you entering the christmas parade ?<eos>no
+speaker1,entering,the christmas parade,negative
+
+personachat-valid-000386
+that's nice to hear , when i was your age i was married<eos>are you indian by any chance ?<eos>no i am from somalia
+speaker1,are,indian,negative
+
+personachat-valid-000076
+great . my father was a teacher too so<eos>did he hike like i do ?<eos>no he did not . he and i enjoyed time in the beach .
+he,hike like,speaker2 do,negative
+
+circa-train-029875
+no . i am close to my mom the hiker but not my dad who rides motorcycles .<eos>are you a hiker ?<eos>haha no, i prefer trail running over walking
+speaker1,are,a hiker,negative
+
+personachat-train-011654
+ever heard of e l james<eos>i have not . what has he written ?<eos>well , i'm not her ahahah .
+speaker2,heard of,e l james,negative
+
+circa-valid-021223
+wow . i m a school teacher myself . i often get exercise dealing with the kids .<eos>will your kids be going to the local school ?<eos>definitely not
+speaker1 's kids,going to,the local school,negative
+
+circa-valid-016891
+oh i'd like to try that time . . maybe share with charlie , my dog<eos>have you been living here all this time ?<eos>no , i only just moved back last month .
+speaker1,living all this time,here,negative
+
+circa-train-000792
+travel is great i love tasting new spicy foods<eos>are you into spicy foods ?<eos>not that much
+speaker1,are into,spicy foods,negative
+
+circa-valid-007700
+that is cool what kind of food do you like<eos>have you tried ethiopian food ?<eos>no , i want to try african food someday .
+speaker1,tried,ethiopian food,negative
+
+circa-train-010309
+i read self help books trying to help myself feel better .<eos>do you like to read self help books ?<eos>actually not , i prefer to find things out myself .
+speaker1,like to,read self help books,negative
+
+circa-valid-027528
+i'm watching my fave movie .<eos>have you seen the new star wars movie yet ?<eos>nope , not a fan of star wars
+speaker1,seen,the new star wars movie,negative
+
+personachat-valid-000145
+my name is john . i am in my early thirties<eos>hi john . i like chocolate . do you ?<eos>no . i don't have money to spend on chocolate . my wife takes it all
+speaker1,like,money,negative
+
+circa-valid-017004
+interesting . i bet you get a lot of 60 year old clients like myself .<eos>are you still planning to retire next year ?<eos>no , i am too broke .
+speaker1,planning to,retire,negative
+
+personachat-train-001093
+no , i don't usually listen to music , although i collected a musical pen .<eos>that is interesting . is being a vegan hard ?<eos>not really as i spend so much time writing i forget to eat .
+being vegan,is,hard,negative
+
+daily_dialogs-valid-002024
+Yes . I'll have a room free next week .<eos>What do you charge ?<eos>25 . 00 dollars a week , but you can't have visitors .
+speaker1,can have,visitors,negative
+
+daily_dialogs-train-006748
+We haven't decided yet . There are a lot of things to sort out , you know .<eos>Are you having a big wedding ?<eos>Yes , I've always dream of having a big wedding .
+speaker1,having,a big wedding,positive
+
+personachat-valid-000311
+how are you this evening ?<eos>well , i love coffee . are you a construction worker like my father was ?<eos>yeah i am its a fun job
+speaker1,are,a construction worker,positive
+
+circa-train-000297
+i am on a reality tv show , but we do the filming over the summer .<eos>are you watching any new tv shows ?<eos>yes , i've been bingeing mrs . maisel .
+speaker1,watching,any new tv shows,positive
+
+daily_dialogs-valid-010890
+There's no power .<eos>Have you checked the fuse box ?<eos>Yes , the fuse had blown and I've changed it but now the motor keeps cutting out .
+speaker1,checked,the fuse box,positive
+
+personachat-train-013740
+my girlfriend loves chocolate , its her favorite thing<eos>really ? do you have siblings ? like instruments ?<eos>i do , i've a brother , few minutes older than me . don't like instruments much
+speaker1,have,siblings,positive
+
+circa-valid-019759
+oh i'd like to try that time . . maybe share with charlie , my dog<eos>do you work full time<eos>yes
+speaker1,work,full time,positive
+
+circa-train-020570
+i have to raise two bad children .<eos>do you have children ?<eos>yes
+speaker1,have,children,positive
+
+daily_dialogs-valid-001982
+It's 1446 Pine Street .<eos>1446 Pine . That's in San Francisco , isn't it ?<eos>Yes , it is .
+that,is in,san francisco,positive
+
+daily_dialogs-valid-010197
+Single , please .<eos>Do you have a reservation ?<eos>Yes . I made a reservation in shanghai .
+speaker1,have,a reservation,positive
+
+personachat-valid-000887
+oh , i just had surgery recently , that was rough<eos>that's not good are you doing ok ?<eos>yes i am doing ok but do feel weird
+speaker1,doing,ok,positive
+
+circa-train-030770
+yes , i tour breweries and the area .<eos>have you checked the concerts happening in the area ?<eos>yes
+speaker1,checked,the concerts happening in the area,positive
+
+daily_dialogs-valid-009599
+Here you are .<eos>Do you have anything to declare ?<eos>Yes , that's a video camera .
+speaker1,have,anything to declare,positive
+
+circa-valid-003490
+yeah i actually play the violin , guitar , drums and piano .<eos>do you enjoy listening to heavy guitar distortion ?<eos>that is just noise to my ears .
+speaker1,enjoy,listening to heavy guitar distortion,positive
+
+circa-valid-009727
+that must be hard . i like a beer after driving my nissan pathfinder .<eos>can i get you a beer ?<eos>yes , i'm hankering for one .
+speaker2,get,a beer,positive
+
+daily_dialogs-train-006071
+3 weeks .<eos>Is your wife with you ?<eos>Yes , she just got here yesterday .
+speaker1 's wife,is with,speaker1,positive
+
+daily_dialogs-train-010928
+Yes , I am sure I can .<eos>Do you think you are proficient in both written and spoken English ?<eos>Yes , I think I am quite proficient in both written and spoken English .
+speaker1,are,proficient in both written and spoken English,positive
+
+circa-train-001702
+i am great . just got off a long flight .<eos>was your flight okay ?<eos>yes , the flight over was smooth .
+speaker1 's flight,was,okay,positive
+
+personachat-valid-000025
+dang that kinda weird . well do you have a pet<eos>yeah i have a cat , how about you ?<eos>i do a pet fish
+speaker2,have,a pet,positive
+
+personachat-train-013488
+oh , then are you a painter ?<eos>yes i'm , what do you do ?<eos>painting sounds good . makes me think of those paintings of bowls of fruit .
+speaker2,are,a painter,positive
+
+circa-valid-020923
+hi there , i decided to pack up my belongings and move here from germany .<eos>is the flat move in ready ?<eos>yes , it's turnkey .
+the flat move,is,ready,positive
+
+circa-valid-031106
+country music is nice what your favorite song<eos>have you heard the new 21 pilots song ?<eos>yes
+speaker1,heard,the new 21 pilots song,positive
+
+personachat-train-001868
+currently from home . perkins is that a restaurant ?<eos>yes it is a restaurant . what do you do at home ?<eos>now we see what they want .
+perkins,is,a restaurant,positive
+
+circa-train-013700
+i like pizza . i like to make pizza while camping .<eos>have you had pizza recently<eos>yes , we had pizza for lunch .
+speaker1,had,pizza,positive
+
+personachat-train-015272
+well that is always good . you just have one ?<eos>yes , my only child so i'm quite protective of her . do you have kids ?<eos>no i don't have any kids . i drive to fast to have kids yet haha
+speaker2,have,one,positive
+
+circa-valid-031458
+i hate blind dates , i do like to go dancing on the weekend though .<eos>want to try go ape this weekend ?<eos>yes
+speaker1,want to,try go ape,positive
+
+circa-train-032332
+no , sorry . i live in eastern europe . i like country music and i'm vegan<eos>have you lived in europe ?<eos>yes
+speaker1,lived in,europe,positive
