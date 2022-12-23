@@ -1,0 +1,15 @@
+numpy
+matplotlib
+spacy==3.4.1
+tqdm
+Levenshtein
+pandas
+nltk
+cltl.triple_extraction
+sklearn
+pyopenie
+allennlp
+language_tool_python
+transformers
+torch
+lemminflect
